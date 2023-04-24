@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="header">Rejestruj konto</string>
+    <string name="email">Podaj e-mail</string>
+    <string name="emailHint"></string>
+    <string name="passwordInputLabel">Podaj hasło</string>
+    <string name="passwordConfirmLabel">Powtórz hasło</string>
+    <string name="buttonConfirm">Zatwierdź</string>
+
+</resources>
